@@ -1,0 +1,27 @@
+NumWiz - A Simple GUI Calculator
+
+This Python script utilizes the Tkinter library to create a graphical user interface (GUI) calculator called "NumWiz." NumWiz allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+Key Features:
+
+User-Friendly Interface: NumWiz provides an easy-to-use interface for entering numerical expressions and obtaining results.
+
+Custom Icon: The calculator window features a custom icon (specified by the 'calc.ico' file) for a personalized touch.
+
+Expression Evaluation: NumWiz can evaluate mathematical expressions provided by the user. Users can enter complex expressions with multiple operations and get the accurate result by pressing the "=" button.
+
+Clear Functionality: The "C" button allows users to clear the input field, making it convenient to start new calculations.
+
+Colorful Buttons: The calculator's buttons have a visually appealing design with a light gray background and black text, enhancing the overall user experience.
+
+How to Use:
+
+Open the NumWiz calculator application.
+
+Enter numerical values and operators (e.g., 5 + 3) in the input field.
+
+Press the "=" button to calculate the result. The result will be displayed in the input field.
+
+Use the "C" button to clear the input field and start a new calculation.
+
+NumWiz supports the following operations: addition (+), subtraction (-), multiplication (*), and division (/).
