@@ -1,0 +1,45 @@
+CODSOFT TASK 3
+**TaskMaster - To-Do List Application**
+
+**Description:**
+
+TaskMaster is a simple yet powerful to-do list application built using Python and the tkinter library for the graphical user interface (GUI). This application allows users to manage their tasks efficiently, providing features for adding, editing, and deleting tasks with a clean and user-friendly interface.
+
+**Key Features:**
+
+1. **Adding Tasks:** Users can input tasks into the application by typing them in the dedicated entry field and clicking the "Add Task" button. Tasks are added to the list below for easy tracking.
+
+2. **Deleting Tasks:** To remove completed or unwanted tasks, users can select a task from the list and click the "Delete Task" button. The selected task is instantly removed from the list.
+
+3. **Editing Tasks:** Users can edit existing tasks by selecting a task, entering the updated text in the "Edit Task" entry field, and clicking the "Edit Task" button. The task's text is updated in the list.
+
+**Stylish and Customizable:**
+
+The TaskMaster application features a stylish and customizable user interface. It offers the following visual enhancements:
+
+- Dark-themed interface with a black background for a sleek and modern look.
+- Colorful buttons with blue backgrounds and white text for an attractive appearance.
+- Light blue entry fields for a pleasing contrast and easy data entry.
+- Clear labeling and layout for intuitive use.
+
+**Usage:**
+
+TaskMaster is designed to assist users in organizing their daily tasks, whether it's for work, school, personal projects, or anything else that requires a to-do list. With its straightforward functionality and appealing design, TaskMaster makes task management a breeze.
+
+**Getting Started:**
+
+1. Add tasks by typing in the "Add Task" entry field and clicking the "Add Task" button.
+2. Delete tasks by selecting them in the list and clicking the "Delete Task" button.
+3. Edit tasks by selecting a task, entering the new text in the "Edit Task" entry field, and clicking the "Edit Task" button.
+
+**Customization:**
+
+Users can further customize the TaskMaster application by modifying the code to change colors, fonts, and styles to suit their personal preferences.
+
+**Stay Organized with TaskMaster!**
+
+TaskMaster empowers users to take control of their tasks, providing a stylish and user-friendly interface for efficient task management. With its easy-to-use features, TaskMaster simplifies your to-do list and helps you stay organized and productive.
+
+---
+
+Feel free to adjust and expand the description as needed to provide more details or highlight specific functionalities of your application.
